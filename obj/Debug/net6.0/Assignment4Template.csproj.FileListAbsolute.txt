@@ -1,0 +1,15 @@
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\bin\Debug\net6.0\Assignment4Template.exe
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\bin\Debug\net6.0\Assignment4Template.deps.json
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\bin\Debug\net6.0\Assignment4Template.runtimeconfig.json
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\bin\Debug\net6.0\Assignment4Template.dll
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\bin\Debug\net6.0\ref\Assignment4Template.dll
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\bin\Debug\net6.0\Assignment4Template.pdb
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\Assignment4Template.csproj.AssemblyReference.cache
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\Assignment4Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\Assignment4Template.AssemblyInfoInputs.cache
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\Assignment4Template.AssemblyInfo.cs
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\Assignment4Template.csproj.CoreCompileInputs.cache
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\Assignment4Template.dll
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\ref\Assignment4Template.dll
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\Assignment4Template.pdb
+C:\Users\barika\Desktop\Assignment4Template\Assignment4Template\obj\Debug\net6.0\Assignment4Template.genruntimeconfig.cache
